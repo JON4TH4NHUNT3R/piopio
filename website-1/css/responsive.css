@@ -74,9 +74,11 @@
 	}
 	.slider-content h1 {
 		font-size: 40px;
+		margin-top: 15%;
 	}
 	.slider-content h1 span.pacifico, .slider-content h2 {
 		font-size:24px;
+		margin-top: 15%;
 	}
 	#our-products {
 		background-image:inherit;
