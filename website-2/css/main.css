@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-color:#282f1f;
 	position:relative;
 	color:#fff;
-	height:750px;
+	height:550px;
 }
 
 #home-wrapper {
@@ -1118,4 +1118,20 @@ transform: rotateY(180deg);
 
 .margin-top-5 {
 	margin-top: 3%;
+}
+
+.padding30 {
+	    padding: 30px 0;
+}
+
+.topp {
+	    margin-bottom: 20px;
+}
+
+.sizerr {
+	height: 550px;
+}
+
+.margin-top5 {
+	margin-top: 6%;
 }
